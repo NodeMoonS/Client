@@ -1,0 +1,10 @@
+.messageDiv {
+  background-color: #478ac9;
+  padding: 10px 20px;
+  color: white;
+  margin-top: 10px;
+  border-radius: 5px;
+  font-size: 16px;
+  opacity: 0;
+  animation: fadeOut 7s forwards;
+}

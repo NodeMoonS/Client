@@ -1,0 +1,60 @@
+
+
+.order {
+  padding: 100px 0px;
+
+}
+
+.container-form {
+  max-width: 1450px;
+  margin: 0px auto;
+}
+
+.order-title {
+  font-size: 24px;
+  text-align: center;
+}
+
+#send-form {
+  margin-top: 35px;
+}
+
+.selects {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 15px;
+  margin: 0px auto;
+  row-gap: 15px;
+  max-width: 550px;
+}
+
+.form-fields {
+
+  margin: 20px auto;
+  max-width: 550px;
+  width: 100%;
+}
+
+.notify {
+  display: none;
+  color: green;
+  font-size: 8px;
+  text-align: center;
+  padding: 14px;
+  border-radius: 15px;
+  width: 100%;
+  max-width: 300px;
+  margin: 0px auto;
+}
+
+.active {
+  display: block;
+}
+
+.hidden {
+  display: none;
+}
+
+.error {
+  color: red;
+}
